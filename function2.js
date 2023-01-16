@@ -1,4 +1,3 @@
-
 function arrays() {
     let find = 1;
     let matrix = [1, 2, 3, 4, 1, 6, 7, 1, 9, 0]
