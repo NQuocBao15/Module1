@@ -10,10 +10,10 @@ class Staff {
         return this.fullname
     }
     setEmail() {
-        this.email = email + ""
+        
     }
     getEmail() {
-        return this.email
+
     }
     toString() {
 

@@ -12,5 +12,5 @@ function countVowels(text) {
     console.log(`Có ${counter} nguyên âm trong chuỗi`)
     return counter
 }
-countVowels("nguyen quoc bao")
+countVowels("llllllllllllllllll")
 
